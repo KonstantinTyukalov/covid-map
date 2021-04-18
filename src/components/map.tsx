@@ -41,6 +41,7 @@ function Map() {
                             <p>Country:{c.Country}</p>
                             <p>Total Confirmed:{c.TotalConfirmed}</p>
                             <p>Total Deaths:{c.TotalDeaths}</p>
+                            <p>Total Recovered:{c.TotalRecovered}</p>
                         </Popup>
                     </CircleMarker>
                 );
