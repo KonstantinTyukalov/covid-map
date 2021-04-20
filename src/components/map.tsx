@@ -23,7 +23,7 @@ function Map() {
             zoom={5}
             scrollWheelZoom={true}
             placeholder={MapPlaceholder}
-            style={{ height: "75vh", width: "100wh" }}
+            style={{ height: "100vh", width: "100wh" }}
         >
             <TileLayer
                 attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
