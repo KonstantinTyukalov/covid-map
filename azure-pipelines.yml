@@ -1,7 +1,7 @@
 pool: Nano-machine-sun
 
-variables:
-  System.Debug: true
+# variables:
+#   System.Debug: true
 
 stages:
 - stage: Build
